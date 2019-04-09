@@ -4,7 +4,7 @@ author: jligzi
 logo: /static/img/avatar.png
 github: https://github.com/jligzi
 about: Freelance developer
-repository: jligzi/jligzi.github.io
+#repository: jligzi/jligzi.github.io
 
 baseurl: "https://jligzi.github.io"
 url: "https://jligzi.github.io"
@@ -29,4 +29,4 @@ markdown: kramdown
 gems: [jekyll-paginate, jekyll-gist]
 
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
