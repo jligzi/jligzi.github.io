@@ -4,6 +4,7 @@ author: jligzi
 logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/jligzi
 about: Freelance developer
+repository: jligzi/jligzi.github.io
 
 baseurl: "https://jligzi.github.io"
 url: "https://jligzi.github.io"
